@@ -11,4 +11,4 @@ A RESTful API for managing books using Spring Boot, MySQL, and Swagger.
 1. Clone this repository: `git clone https://github.com/albagash/BookAPI.git`
 2. Import it into IntelliJ IDEA or your preferred IDE.
 3. Configure `application.properties` for your MySQL setup.
-4. Start the application and visit `http://localhost:8081/swagger-ui/index.html`.
+4. Start the application and visit `http://localhost:8080/swagger-ui/index.html`.
